@@ -1,3 +1,3 @@
 ## app link
 
-https://nandani1265922-calories-burned-project-app-2rzjxm.streamlit.app/
+https://caloriesburnedproject-wkj6senu38gagqblkv87ro.streamlit.app/
